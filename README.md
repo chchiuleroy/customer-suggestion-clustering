@@ -1,2 +1,2 @@
 # customer-suggestion-clustering
-example
+使用Bert得到顧客建議的embedding，並透過spectral clustering得到顧客建議的可分為幾個主題；最後再利用分類模型來驗證所得到的分群標籤是否有其精準度
